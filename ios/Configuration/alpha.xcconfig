@@ -1,0 +1,6 @@
+#include "Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"
+#include "Shared.xcconfig"
+PRODUCT_BUNDLE_IDENTIFIER=be.wive.pilltracker.alpha
+CFBundleName=Pill tracker Alpha
+FLUTTER_TARGET=lib/main_alpha.dart
+PROVISIONING_PROFILE_SPECIFIER=Pill tracker Alpha
